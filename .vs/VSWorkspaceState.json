@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\pages",
+    "\\src\\app\\pages\\student-page",
+    "\\src\\app\\shared",
+    "\\src\\app\\shared\\components",
+    "\\src\\app\\shared\\components\\spinner",
+    "\\src\\app\\shared\\services",
+    "\\src\\environments"
+  ],
+  "SelectedNode": "\\src\\environments\\environment.ts",
+  "PreviewInSolutionExplorer": false
+}
